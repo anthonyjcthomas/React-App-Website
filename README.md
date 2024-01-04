@@ -1,78 +1,72 @@
-# Reacet App Website
+# React App Website
 
 ## About the Project
 
-This project is a personal resume website designed to showcase my professional and academic achievements. It's built using a combination of Node.js, React, HTML, and CSS, offering a responsive and interactive user experience. The website is deployed on AWS, ensuring reliable access and performance.
+This personal resume website is designed to showcase professional and academic achievements. Built with Node.js, React, HTML, and CSS, it offers a responsive and interactive user experience. Deployed on AWS, it guarantees reliable access and performance.
 
 ### Built With
 
 - **Node.js**: [Node.js](https://nodejs.org/)
 - **React**: [React](https://reactjs.org/)
-- **HTML/CSS**: Basics of web development.
-- **AWS**: [AWS](https://aws.amazon.com/) for deployment.
+- **HTML/CSS**: Basic web development components.
+- **AWS**: Used for [deployment](https://aws.amazon.com/).
 
 ## Getting Started
 
-To get a local copy up and running, follow these simple steps.
+Follow these steps to get a local copy up and running.
 
 ### Prerequisites
 
-- npm
-  Ensure you have npm installed, which comes with Node.js. You can download it from [Node.js website](https://nodejs.org/).
+- **npm**: Comes with Node.js. Download from the [Node.js website](https://nodejs.org/).
 
 ### Installation and Setup
 
- **Create React App:**
-   Begin by creating a new React application using Create-React-App.
-
-   ```bash
+1. **Create React App**:
    npx create-react-app my-resume-website
-   ```bash
-   Replace my-resume-website with the name of your project.
+Replace `my-resume-website` with your project name.
 
-**Navigate to Your Project Directory:**
+2. **Navigate to Your Project Directory**:
+     cd my-resume-website
 
-    ```bash
-    cd my-resume-website
-**Start the Development Server:**
+3. **Start the Development Server**:
+   npm start
+Runs your app in development mode.
 
-    ```bash
-    npm start
-This will run your app in development mode.
+4. **Edit the App**: Open `src/App.js` to modify your application.
 
-**Edit the App:**
-Open src/App.js to start modifying your application.
+5. **Additional Dependencies**:
+     npm install [package-name]
 
-**Additional Dependencies:**
-Install any additional packages if necessary.
+6. **Testing**:
+   npm test
 
-    ```bash
-    npm install [package-name]
-**Testing:**
-Run tests using:
+7. **Build for Production**:
+   npm run build
+   Prepares your app for deployment.
 
-    ```bash
-    npm test
-**Build for Production:**
+### Running Locally
 
-    ```bash
-    npm run build
-This command prepares your app for deployment.
+After installation, your app should be running on [http://localhost:3000](http://localhost:3000).
 
-**Running Locally**
-After following the installation steps, your app should be running on http://localhost:3000.
+### Deployment on AWS
 
-**Deployment on AWS**
-This application is deployed on AWS. For detailed instructions on deploying to AWS, refer to the AWS documentation.
+For detailed AWS deployment instructions, refer to the [AWS documentation](https://aws.amazon.com/documentation/).
 
-**Contributing**
-Contributions to improve the project are welcome. Feel free to fork the repo and create a pull request.
+## Contributing
 
-**License**
-Distributed under the MIT License. See LICENSE for more information.
+Contributions to improve the project are welcome. Fork the repo and create a pull request to contribute.
 
-**Contact**
-Anthony Thomas - anthonyjcthomas@gmail.com
+## License
 
-Project Link: https://github.com/anthonyjcthomas/React-App-Website
+This project is distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+- **Anthony Thomas**: anthonyjcthomas@gmail.com
+- **Project Link**: [GitHub](https://github.com/anthonyjcthomas/React-App-Website)
+
+
+
+
+
 
