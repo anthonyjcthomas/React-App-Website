@@ -1,0 +1,40 @@
+.section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(105, 99, 99);
+    padding: 50px;
+}
+.bio{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.name-text{
+    font-size: 50px;
+
+}
+
+.small-text {
+    font-size: 20px;
+}
+
+.highlight-text{
+    color: rgb(0, 140, 255);
+
+}
+
+.profile-image{
+    flex: 1;
+    width: 205px;
+    border-radius: 50%;
+    border: 5px solid rgb(0, 140, 255);
+}
+.icons{
+    margin-top: 10px;
+}
+.icons a {
+    margin-left: 10px;
+}
