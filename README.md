@@ -29,7 +29,7 @@ To get a local copy up and running, follow these simple steps.
    npx create-react-app my-resume-website
     Replace my-resume-website with the name of your project.
 
-**Navigate to Your Project Directory:**
+###Navigate to Your Project Directory:
 
     ```bash
     cd my-resume-website
