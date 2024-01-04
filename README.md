@@ -22,8 +22,58 @@ To get a local copy up and running, follow these simple steps.
 
 ### Installation and Setup
 
-1. **Create React App:**
+ **Create React App:**
    Begin by creating a new React application using Create-React-App.
 
    ```bash
    npx create-react-app my-resume-website
+    Replace my-resume-website with the name of your project.
+
+Navigate to Your Project Directory:
+
+```bash
+cd my-resume-website
+Start the Development Server:
+
+```bash
+npm start
+This will run your app in development mode.
+
+Edit the App:
+Open src/App.js to start modifying your application.
+
+Additional Dependencies:
+Install any additional packages if necessary.
+
+```bash
+npm install [package-name]
+Testing:
+Run tests using:
+
+```bash
+npm test
+Build for Production:
+
+```bash
+npm run build
+This command prepares your app for deployment.
+
+Running Locally
+After following the installation steps, your app should be running on http://localhost:3000.
+
+Deployment on AWS
+This application is deployed on AWS. For detailed instructions on deploying to AWS, refer to the AWS documentation.
+
+Contributing
+Contributions to improve the project are welcome. Feel free to fork the repo and create a pull request.
+
+License
+Distributed under the MIT License. See LICENSE for more information.
+
+Contact
+Your Name - [your-email@example.com]
+
+Project Link: https://github.com/yourusername/your-repo-name
+
+```bash
+Make sure to replace placeholders like `[your-email@example.com]`, `[https:/
