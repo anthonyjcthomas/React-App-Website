@@ -22,7 +22,7 @@ Follow these steps to get a local copy up and running.
 ### Installation and Setup
 
 1. **Create React App**:
-   `npx create-react-app my-resume-website`
+   ```npx create-react-app my-resume-website```
 Replace `my-resume-website` with your project name.
 
 2. **Navigate to Your Project Directory**:
