@@ -22,26 +22,26 @@ Follow these steps to get a local copy up and running.
 ### Installation and Setup
 
 1. **Create React App**:
-   npx create-react-app my-resume-website
+   `npx create-react-app my-resume-website`
 Replace `my-resume-website` with your project name.
 
 2. **Navigate to Your Project Directory**:
-     cd my-resume-website
+    ` cd my-resume-website`
 
 3. **Start the Development Server**:
-   npm start
+`npm start`
 Runs your app in development mode.
 
 4. **Edit the App**: Open `src/App.js` to modify your application.
 
 5. **Additional Dependencies**:
-     npm install [package-name]
+    ` npm install [package-name]`
 
 6. **Testing**:
-   npm test
+  ` npm test`
 
 7. **Build for Production**:
-   npm run build
+  ` npm run build`
    Prepares your app for deployment.
 
 ### Running Locally
